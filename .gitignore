@@ -1,0 +1,14 @@
+# Ignore these files and directories
+vendor/
+.DS_Store
+.env
+config/config.php
+*.log
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+node_modules/
+.env.local
+.env.*.local
